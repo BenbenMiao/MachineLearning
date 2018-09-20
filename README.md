@@ -7,7 +7,7 @@
 
 [Chapter02_Package.ipynb](./Chapter02_Package.ipynb)
 
-[Chapter03_iris.ipynb](./Chapter03_iris.ipynb)
+[Chapter03_iris.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter03_iris.ipynb)
 
 [Chapter05_ReadData.ipynb](./Chapter05_ReadData.ipynb)
 
