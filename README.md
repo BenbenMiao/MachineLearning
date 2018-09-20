@@ -1,47 +1,46 @@
 # MachineLearning
-[TOC]
 
 ### 1.循序渐进章节
 
-[chapter01_Demo.ipynb](./chapter01_Demo.ipynb)
+[chapter01_Demo.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/chapter01_Demo.ipynb)
 
-[Chapter02_Package.ipynb](./Chapter02_Package.ipynb)
+[Chapter02_Package.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter02_Package.ipynb)
 
 [Chapter03_iris.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter03_iris.ipynb)
 
-[Chapter05_ReadData.ipynb](./Chapter05_ReadData.ipynb)
+[Chapter05_ReadData.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter05_ReadData.ipynb)
 
-[Chapter06_DataAnalysis.ipynb](./Chapter06_DataAnalysis.ipynb)
+[Chapter06_DataAnalysis.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter06_DataAnalysis.ipynb)
 
-[Chapter07_Plot.ipynb](./Chapter07_Plot.ipynb)
+[Chapter07_Plot.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter07_Plot.ipynb)
 
-[Chapter08_Scale.ipynb](./Chapter08_Scale.ipynb)
+[Chapter08_Scale.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter08_Scale.ipynb)
 
-[Chapter09_Feature_Selection.ipynb](./Chapter09_Feature_Selection.ipynb)
+[Chapter09_Feature_Selection.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter09_Feature_Selection.ipynb)
 
-[Chapter10_Model_Selection.ipynb](./Chapter10_Model_Selection.ipynb)
+[Chapter10_Model_Selection.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter10_Model_Selection.ipynb)
 
-[Chapter11_Scoring.ipynb](./Chapter11_Scoring.ipynb)
+[Chapter11_Scoring.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter11_Scoring.ipynb)
 
-[Chapter12_Model_Cross_Val.ipynb](./Chapter12_Model_Cross_Val.ipynb)
+[Chapter12_Model_Cross_Val.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter12_Model_Cross_Val.ipynb)
 
-[Chapter13_Scoring.ipynb](./Chapter13_Scoring.ipynb)
+[Chapter13_Scoring.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter13_Scoring.ipynb)
 
-[Chapter14_Classification.ipynb](./Chapter14_Classification.ipynb)
+[Chapter14_Classification.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter14_Classification.ipynb)
 
-[Chapter15_Pipeline.ipynb](./Chapter15_Pipeline.ipynb)
+[Chapter15_Pipeline.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter15_Pipeline.ipynb)
 
-[Chapter16_Bagged.ipynb](./Chapter16_Bagged.ipynb)
+[Chapter16_Bagged.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter16_Bagged.ipynb)
 
-[Chapter17_Search.ipynb](./Chapter17_Search.ipynb)
+[Chapter17_Search.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter17_Search.ipynb)
 
-[Chapter18_Dump_Load.ipynb](./Chapter18_Dump_Load.ipynb)
+[Chapter18_Dump_Load.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter18_Dump_Load.ipynb)
 
-[Chapter20_Boston_House_Prise_Demo.ipynb](./Chapter20_Boston_House_Prise_Demo.ipynb)
+[Chapter20_Boston_House_Prise_Demo.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter20_Boston_House_Prise_Demo.ipynb)
 
-[Chapter21_Binary.ipynb](./Chapter21_Binary.ipynb)
+[Chapter21_Binary.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter21_Binary.ipynb)
 
-[Chapter22_TextAnalysis.ipynb](./Chapter22_TextAnalysis.ipynb)
+[Chapter22_TextAnalysis.ipynb](https://github.com/BenbenMiao/MachineLearning/blob/master/Chapter22_TextAnalysis.ipynb)
 
 ***
 ### 2.Python机器学习项目
