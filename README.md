@@ -1,6 +1,5 @@
 # MachineLearning
-
-[Chapter00_Template.ipynb](./Chapter00_Template.ipynb)
+### 1.循序渐进章节
 
 [chapter01_Demo.ipynb](./chapter01_Demo.ipynb)
 
@@ -43,7 +42,7 @@
 [Chapter22_TextAnalysis.ipynb](./Chapter22_TextAnalysis.ipynb)
 
 ***
-Python机器学习项目模版
+### 2.Python机器学习项目
 
 **1. 准备**
 
@@ -83,7 +82,11 @@ b) 集成算法
 a) 预测评估数据集
 b) 利用整个数据集生产模型
 c) 序列化模型
+
 ***
+
+### 3.实例1代码
+
 1.导入类库
 ```
 import numpy as np
