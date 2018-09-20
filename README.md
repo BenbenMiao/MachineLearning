@@ -1,5 +1,48 @@
 # MachineLearning
 
+[Chapter00_Template.ipynb](./Chapter00_Template.ipynb)
+
+[chapter01_Demo.ipynb](./chapter01_Demo.ipynb)
+
+[Chapter02_Package.ipynb](./Chapter02_Package.ipynb)
+
+[Chapter03_iris.ipynb](./Chapter03_iris.ipynb)
+
+[Chapter05_ReadData.ipynb](./Chapter05_ReadData.ipynb)
+
+[Chapter06_DataAnalysis.ipynb](./Chapter06_DataAnalysis.ipynb)
+
+[Chapter07_Plot.ipynb](./Chapter07_Plot.ipynb)
+
+[Chapter08_Scale.ipynb](./Chapter08_Scale.ipynb)
+
+[Chapter09_Feature_Selection.ipynb](./Chapter09_Feature_Selection.ipynb)
+
+[Chapter10_Model_Selection.ipynb](./Chapter10_Model_Selection.ipynb)
+
+[Chapter11_Scoring.ipynb](./Chapter11_Scoring.ipynb)
+
+[Chapter12_Model_Cross_Val.ipynb](./Chapter12_Model_Cross_Val.ipynb)
+
+[Chapter13_Scoring.ipynb](./Chapter13_Scoring.ipynb)
+
+[Chapter14_Classification.ipynb](./Chapter14_Classification.ipynb)
+
+[Chapter15_Pipeline.ipynb](./Chapter15_Pipeline.ipynb)
+
+[Chapter16_Bagged.ipynb](./Chapter16_Bagged.ipynb)
+
+[Chapter17_Search.ipynb](./Chapter17_Search.ipynb)
+
+[Chapter18_Dump_Load.ipynb](./Chapter18_Dump_Load.ipynb)
+
+[Chapter20_Boston_House_Prise_Demo.ipynb](./Chapter20_Boston_House_Prise_Demo.ipynb)
+
+[Chapter21_Binary.ipynb](./Chapter21_Binary.ipynb)
+
+[Chapter22_TextAnalysis.ipynb](./Chapter22_TextAnalysis.ipynb)
+
+***
 Python机器学习项目模版
 
 **1. 准备**
