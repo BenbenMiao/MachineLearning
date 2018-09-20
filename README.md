@@ -1,5 +1,5 @@
 # MachineLearning
-TOC[]
+[TOC]
 
 ### 1.循序渐进章节
 
