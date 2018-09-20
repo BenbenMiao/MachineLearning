@@ -1,7 +1,7 @@
 # MachineLearning
 ### 1.循序渐进章节
 
-[chapter01_Demo.ipynb](./chapter01_Demo.ipynb)
+[<p style="color:red;font-size:30px">chapter01_Demo.ipynb</p>](./chapter01_Demo.ipynb)
 
 [Chapter02_Package.ipynb](./Chapter02_Package.ipynb)
 
@@ -46,7 +46,7 @@
 
 **1. 准备**
 
-a) 导入类库
+a) <p style="color:red">导入类库</p>
 b) 导入数据集
 
 
