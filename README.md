@@ -3,7 +3,7 @@
 
 ### 1.循序渐进章节
 
-[chapter01_Demo.ipynb(./chapter01_Demo.ipynb)
+[chapter01_Demo.ipynb](./chapter01_Demo.ipynb)
 
 [Chapter02_Package.ipynb](./Chapter02_Package.ipynb)
 
